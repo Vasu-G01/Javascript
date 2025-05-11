@@ -1,7 +1,7 @@
 const accountID=123336
 let accountEmail="Vasu@gmail.com"
 var accountPass="34567"
-accountCity="Fazilka"
+accountCity="Faridkot"
 let accountState;
 accountEmail="hc@hc.com"
 accountPass="234322"
